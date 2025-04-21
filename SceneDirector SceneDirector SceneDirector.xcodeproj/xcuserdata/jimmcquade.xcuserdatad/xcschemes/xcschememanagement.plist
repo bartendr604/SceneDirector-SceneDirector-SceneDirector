@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>SceneDirector SceneDirector SceneDirector 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>SceneDirector SceneDirector SceneDirector.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B8FD8D232DB0719000006120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8FD8D372DB0719200006120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8FD8D412DB0719200006120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
